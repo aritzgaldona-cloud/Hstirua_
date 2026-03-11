@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
 .nav_bar_1{
     position: fixed;
     width: 100%;
@@ -15,5 +20,4 @@
     width: 50px;
     background-color: brown;
     display: flex;
-
 }
