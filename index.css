@@ -1,7 +1,19 @@
 .nav_bar_1{
+    position: fixed;
     width: 100%;
     height: 50px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: darkorange;
     color: blue;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav_bar_2{
+    position: fixed;
+    float: right;
+    height: 100%;
+    width: 50px;
+    background-color: brown;
+    display: flex;
+
 }
