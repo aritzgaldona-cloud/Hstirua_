@@ -23,8 +23,27 @@
     flex-direction: column;
     align-items: stretch;
     align-content: stretch;
+    right:0px;
 }
 
 .blokea{
+    height: auto;
+    width: auto;
+
+    background-color: beige;
+    border: 1px solid red;
+}
+
+.blokea a{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
     writing-mode: vertical-lr;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.blokea:hover{
+    
 }
