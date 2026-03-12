@@ -19,7 +19,7 @@
 
 .nav_bar_2{
     position: fixed;
-    rigth:opx;
+    right: 0px;
     height: 100%;
     width: 50px;
     background-color: white;
@@ -46,7 +46,7 @@
     color:white;
 }
 
-.blokea:a{
+a:hover{
     background-color: blue;
     color:white;
 }
@@ -58,7 +58,7 @@ a{
   text-decoration: none;
   color:black;
   font-family: Arial, Helvetica, sans-serif;
-  padding-top: ;
+  padding-top: 20px ;
 }
 
 .edukia{
